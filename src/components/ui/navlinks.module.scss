@@ -1,0 +1,14 @@
+.navlinks-list {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.navlinks-list__item {
+    padding: 0 1rem;
+}
+
+.navlink {
+    text-decoration: none;
+    color: black;
+}
