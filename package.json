@@ -28,6 +28,7 @@
         "gatsby-plugin-smoothscroll": "^1.2.0",
         "gatsby-source-filesystem": "^4.2.0",
         "gatsby-transformer-sharp": "^4.2.0",
+        "gbimage-bridge": "^0.1.4",
         "react": "^17.0.1",
         "react-card-scroll": "^2.2.4",
         "react-dom": "^17.0.1",

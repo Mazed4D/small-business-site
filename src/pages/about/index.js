@@ -12,7 +12,24 @@ const IndexPage = () => {
 				debitis vel quae eos enim, minima, alias voluptatum. Recusandae, et quis
 				dolore labore exercitationem quas placeat asperiores?
 			</p>
-			<h2>Here are some of the projects we've done</h2>
+			<p style={styles.paragraph}>
+				Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione ullam
+				repellat explicabo culpa ut, atque suscipit neque in dolores illum
+				aliquid aut voluptatibus nesciunt cum beatae consequuntur blanditiis
+				temporibus quisquam! Lorem ipsum dolor sit, amet consectetur adipisicing
+				elit. Suscipit asperiores enim excepturi corporis, ad adipisci obcaecati
+				possimus ex odio necessitatibus sed quam molestias quia nemo tenetur
+				vitae fugiat aut nobis.
+			</p>
+			<p style={styles.paragraph}>
+				Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex, provident.
+				Rem molestiae quam eaque placeat cumque, vitae odio et perferendis autem
+				corrupti quae facilis molestias ut obcaecati porro dignissimos
+				necessitatibus! Lorem ipsum dolor sit amet, consectetur adipisicing
+				elit. Blanditiis, dolores minima sit unde nobis harum ducimus veritatis
+				officia soluta exercitationem. Porro modi maiores, possimus temporibus
+				molestiae unde rerum nemo odit.
+			</p>
 		</Layout>
 	);
 };
