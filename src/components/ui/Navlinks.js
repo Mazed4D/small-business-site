@@ -13,6 +13,11 @@ const Navlinks = () => {
 					</Link>
 				</li>
 				<li className={styles.navlinksList__item}>
+					<Link href='/projects' className={styles.navlink}>
+						Projects
+					</Link>
+				</li>
+				<li className={styles.navlinksList__item}>
 					<Link href='/contact' className={styles.navlink}>
 						Contact
 					</Link>

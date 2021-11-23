@@ -1,3 +1,4 @@
+import { Link } from 'gatsby';
 import * as React from 'react';
 import Layout from '../../components/layout/Layout';
 import * as styles from './about.module.scss';
@@ -30,6 +31,9 @@ const IndexPage = () => {
 				officia soluta exercitationem. Porro modi maiores, possimus temporibus
 				molestiae unde rerum nemo odit.
 			</p>
+			<Link to='/projects' className={styles.navlink}>
+				<h3>Take a look at some of our work</h3>
+			</Link>
 		</Layout>
 	);
 };
