@@ -1,4 +1,4 @@
-#Small business site 
-#WIP
+# Small business site 
+# WIP
 
 Simple small business site built with GatsbyJS.
