@@ -5,7 +5,7 @@ import * as styles from './card.module.scss';
 const Card = ({ url = '', alt = 'nothing', title = 'project-title' }) => {
 	return (
 		<div className={styles.card}>
-			<StaticImage src={url} alt={alt} />
+			{/* <StaticImage src={url} alt={alt} /> */}
 			<h3>{title}</h3>
 		</div>
 	);
