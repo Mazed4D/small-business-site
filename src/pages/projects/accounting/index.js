@@ -22,7 +22,7 @@ const Accounting = () => {
 			<GatsbyImage
 				image={data.file.childImageSharp.gatsbyImageData}
 				alt='photo of a man working on spreadsheets'
-				// class={styles.image}
+				class={styles.image}
 			/>
 			<h1 className={styles.title}>Accounting software</h1>
 			<p>

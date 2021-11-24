@@ -22,7 +22,7 @@ const Crypto = () => {
 			<GatsbyImage
 				image={data.file.childImageSharp.gatsbyImageData}
 				alt='photo of a cryptocurrency trading platform on a phone'
-				// class={styles.image}
+				class={styles.image}
 			/>
 			<h1 className={styles.title}>Cryptocurrency trading platform</h1>
 			<p>

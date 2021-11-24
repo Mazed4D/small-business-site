@@ -25,3 +25,9 @@ h3 {
 .content {
 	grid-area: main;
 }
+
+@media (min-width: 992px) {
+	p {
+		max-width: 50rem;
+	}
+}

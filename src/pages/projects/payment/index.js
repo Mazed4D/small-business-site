@@ -22,7 +22,7 @@ const Payment = () => {
 			<GatsbyImage
 				image={data.file.childImageSharp.gatsbyImageData}
 				alt='photo of a credit card'
-				// class={styles.image}
+				class={styles.image}
 			/>
 			<h1 className={styles.title}>Online payment system</h1>
 			<p>

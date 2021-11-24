@@ -21,7 +21,7 @@ const Shopping = () => {
 			<GatsbyImage
 				image={data.file.childImageSharp.gatsbyImageData}
 				alt='photo of shopping carts'
-				// class={styles.image}
+				class={styles.image}
 			/>
 			<h1 className={styles.title}>Shopping Management Software</h1>
 			<p>
