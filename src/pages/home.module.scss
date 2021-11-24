@@ -1,14 +1,28 @@
 main {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
 }
 
 .title {
-    font-size: 5rem;
+	font-size: 5rem;
+	animation: fadeIn 5s;
+	-webkit-animation: fadeIn 5s;
 }
 
 .subtitle {
-    font-size: 2rem;
+	opacity: 0;
+	font-size: 2rem;
+	animation: fadeIn 5s linear 3s forwards;
+	-webkit-animation: fadeIn 5s linear 3s forwards;
+}
+
+@keyframes fadeIn {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
 }
