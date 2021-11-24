@@ -4,7 +4,6 @@ import Navbar from '../ui/Navbar';
 import * as styles from './layout.module.scss';
 
 const Layout = ({ children }) => {
-	console.info(styles);
 	return (
 		<div className={styles.layout}>
 			<Navbar />

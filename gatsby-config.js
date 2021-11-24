@@ -12,7 +12,6 @@ module.exports = {
 		'gatsby-plugin-sharp',
 		'gatsby-transformer-sharp',
 		`gatsby-plugin-smoothscroll`,
-		'gatsby-background-image',
 		{
 			resolve: 'gatsby-source-filesystem',
 			options: {
