@@ -15,8 +15,6 @@ const Crypto = () => {
 		}
 	`);
 
-	console.info(data);
-
 	return (
 		<Layout>
 			<GatsbyImage

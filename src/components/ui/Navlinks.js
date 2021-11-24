@@ -3,7 +3,6 @@ import { Link } from 'gatsby';
 import * as styles from './navlinks.module.scss';
 
 const Navlinks = () => {
-	console.info(styles);
 	return (
 		<div className={styles.navlinks}>
 			<ul className={styles.navlinksList}>

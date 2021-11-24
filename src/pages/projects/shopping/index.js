@@ -14,8 +14,6 @@ const Shopping = () => {
 		}
 	`);
 
-	console.info(data);
-
 	return (
 		<Layout>
 			<GatsbyImage

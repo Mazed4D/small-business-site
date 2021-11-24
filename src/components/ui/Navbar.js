@@ -5,7 +5,6 @@ import { StaticImage } from 'gatsby-plugin-image';
 import { Link } from 'gatsby';
 
 const Navbar = () => {
-	console.log(styles);
 	return (
 		<div className={styles.navbar}>
 			<Link href='/' className='navbar-logo'>

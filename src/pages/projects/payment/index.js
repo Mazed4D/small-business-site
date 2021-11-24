@@ -15,8 +15,6 @@ const Payment = () => {
 		}
 	`);
 
-	console.info(data);
-
 	return (
 		<Layout>
 			<GatsbyImage
