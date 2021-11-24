@@ -14,6 +14,7 @@ const Projects = () => {
 							placeholder: BLURRED
 							transformOptions: { fit: FILL }
 							height: 250
+							quality: 90
 						)
 					}
 					name
