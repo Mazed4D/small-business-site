@@ -7,15 +7,15 @@ main {
 
 .title {
 	font-size: 5rem;
-	animation: fadeIn 5s;
-	-webkit-animation: fadeIn 5s;
+	animation: fadeIn 3s;
+	-webkit-animation: fadeIn 3s;
 }
 
 .subtitle {
 	opacity: 0;
 	font-size: 2rem;
-	animation: fadeIn 3s ease-in-out 3s forwards;
-	-webkit-animation: fadeIn 3s ease-in-out 3s forwards;
+	animation: fadeIn 2s ease-in-out 3s forwards;
+	-webkit-animation: fadeIn 2s ease-in-out 1.5s forwards;
 }
 
 @keyframes fadeIn {
