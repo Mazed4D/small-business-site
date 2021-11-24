@@ -3,7 +3,6 @@ main {
 }
 
 .navlink {
-	border: 1px solid rgba($color: #000000, $alpha: 0.5);
 	margin-top: 1rem;
 	padding: 0 1rem;
 	text-decoration: none;
@@ -15,6 +14,8 @@ main {
 	-ms-border-radius: 10px;
 	-o-border-radius: 10px;
 	&:hover {
+		color: black;
+		background-color: white;
 		transform: scale(1.1);
 		-webkit-transform: scale(1.1);
 		-moz-transform: scale(1.1);
