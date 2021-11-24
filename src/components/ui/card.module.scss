@@ -3,7 +3,7 @@
 	cursor: pointer;
 	max-height: 14rem;
 	margin: 0.5rem 0.5rem;
-	background-color: white;
+	// background-color: rgba($color: #f2f2f2, $alpha: 1);
 	// border: 1px solid rgba($color: #000000, $alpha: 0.5);
 	border-radius: 20px;
 	-webkit-border-radius: 20px;
@@ -15,6 +15,8 @@
 	text-align: center;
 	&:hover {
 		// border: 1px solid rgba($color: #7c7c00, $alpha: 0.8);
+		background-color: black;
+		color: white;
 		box-shadow: 2px 2px 20px rgba($color: #000000, $alpha: 0.3);
 		transform: scale(1.1);
 		-webkit-transform: scale(1.1);
