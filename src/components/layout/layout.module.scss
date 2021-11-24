@@ -9,6 +9,12 @@ body {
 	font-family: 'Montserrat', sans-serif;
 }
 
+h1,
+h2,
+h3 {
+	text-align: center;
+}
+
 .layout {
 	display: grid;
 	grid-template-rows: auto 1fr minmax(3rem, auto);
