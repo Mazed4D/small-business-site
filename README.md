@@ -2,6 +2,8 @@
 
 Simple small business site built with GatsbyJS.
 
+Live version of the site can be found at https://smallbusinesssitemain.gatsbyjs.io/
+
 ## List of used images:
 
 - Logo - https://icons8.com/icons/set/royalty-free
